@@ -1,0 +1,193 @@
+body{
+			background: url(../photo/OIP.jpg);
+			-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+			font-family: 'Archivo Black', sans-serif;
+		}
+		.form{
+
+	height:750px;
+	width:1400px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	background: rgba(0,0,0,.3);
+	transform: translate(-51%,-50%);
+	border-radius: 30px;
+	border: 0.5px white solid;
+		}
+		.mc{
+			font-size: 40px;
+		}
+		.serverip{
+			position: absolute;
+			left: 18%;
+	background: rgba(0,0,0,.3);
+	height: 60px;
+	width: 900px;
+	border-radius:3px;
+	border: 1px white solid;
+		}
+
+		.serverip:hover{
+			transition: 0.3s;
+			position: absolute;
+			left: 18%;
+	background: rgba(0,0,0,.3);
+	height: 60px;
+	width: 900px;
+	border-radius:20px;
+	border: 2px #00AEFF solid;
+		}
+
+		.sp{
+			position: absolute;
+			top: 1%;
+			left: 3%;
+			font-size: 40px;
+		}
+		.sidebar{
+			background: rgba(0,0,0,.6);
+			width: 400px;
+			height: 200px;
+			position: absolute;
+			top: 30%;
+			left: 70%;
+			border-radius: 20px;
+		}
+		.sidebar2{
+			background: rgba(0,0,0,.6);
+			width: 400px;
+			height: 200px;
+			position: absolute;
+			top: 62%;
+			left: 70%;
+			border-radius: 20px;
+		}
+		.sidebar3{
+			background: rgba(0,0,0,.6);
+			width: 400px;
+			height: 470PX;
+			position: absolute;
+			top: 30%;
+			left: 2%;
+			border-radius: 20px;
+		}
+		.gg{
+			position: absolute;
+			top: 38%;
+			left:38%;
+			height: 320px;
+			 transform: rotate(-45deg);
+		}
+		.ssp{
+			position: absolute;	
+			top: 	80px;
+			left: 20%;
+			border: white 2px solid;
+			height: 60px;
+			width: 	220PX;
+			border-radius: 	2px;
+		}
+		.ssp:hover{
+			transition: 0.3s;
+			border: #00AEFF 2px solid;
+			height: 60px;
+			width: 	220PX;
+			border-radius: 	20px;
+		}
+			.ssp1{
+				position: 	absolute;	
+				top: 	-8px;
+				left: 	2%;
+			}
+			.ssp2{
+			position: absolute;	
+			top: 	170px;
+			left: 20%;
+			border: white 2px solid;
+			height: 60px;
+			width: 	220PX;
+			border-radius: 	2px;
+		}
+		.ssp2:hover{
+			transition: .4s;
+			border: #00AEFF 2px solid;
+			height: 60px;
+			width: 	220PX;
+			border-radius: 	20px;
+		}
+			.ssp3{
+				position: 	absolute;	
+				top: 	-8px;
+				left: 	15%;
+			}
+
+				.ssp4{
+			position: absolute;	
+			top: 	260px;
+			left: 20%;
+			border: white 2px solid;
+			height: 60px;
+			width: 	220PX;
+			border-radius: 	2px;
+		}
+		.ssp4:hover{
+			transition: 0.3s;
+			border: #00AEFF 2px solid;
+			height: 60px;
+			width: 	220PX;
+			border-radius: 	20px;
+		}
+			.ssp5{
+				position: 	absolute;	
+				top: 	-8px;
+				left: 	20%;
+			}
+
+			.ssp6{
+			position: absolute;	
+			top: 	350px;
+			left: 20%;
+			border: white 2px solid;
+			height: 60px;
+			width: 	220PX;
+			border-radius: 	2px;
+		}
+		.ssp6:hover{
+			transition: 0.3s;
+			border: #00AEFF 2px solid;
+			height: 60px;
+			width: 	220PX;
+			border-radius: 	20px;
+		}
+			.ssp7{
+				position: 	absolute;	
+				top: 	-8px;
+				left: 	30%;
+			}
+
+			.s1{
+				position: absolute;
+				top:1px;
+				width: 100px;
+
+			}
+			.s2{
+				position: absolute;
+				top: 20%;
+				left: 140px;
+			}
+
+.s21{
+	transform: rotate(-45deg);
+	position: absolute;
+	top: 5%;
+	left: -20px;
+}
+.b1{
+	position: absolute;
+	top: 10px;
+	left: 320px;
+}
